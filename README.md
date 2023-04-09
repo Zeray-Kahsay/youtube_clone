@@ -1,3 +1,8 @@
+## About the Project
+
+The project is all about cloning Youtube using React and Material UI. No backend teck has been employed, instead RapidAPI is used. Almost all features youtube offers are included in this project. The project is deployed via netlify, and you can try it out here:
+https://rainbow-halva-190ee2.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
